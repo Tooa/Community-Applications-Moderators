@@ -492,10 +492,6 @@
   "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
     "UpdateMinVer": "6.7.0"
   },
-  "snoopy86/emoncms": {
-    "Blacklist": true,
-    "ModeratorComment": "Repository no longer exists on dockerHub"
-  },
   "mace/ddclient": {
     "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
   },
@@ -545,10 +541,6 @@
   },
   "dmaxwell/splunk": {
     "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
-    "Deprecated": true
-  },
-  "snoopy86/logitechmediaserver": {
-    "ModeratorComment": "A more up to date version is available in dlandon's repository",
     "Deprecated": true
   },
   "coppit/handbrake": {
