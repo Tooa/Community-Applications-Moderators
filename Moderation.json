@@ -943,5 +943,8 @@
   },
   "kiwix/kiwix-serve:latest": {
     "Recommended": true
+  },
+  "gotify/server:latest": {
+    "Recommended": true
   }
 } 
