@@ -927,6 +927,8 @@
     "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
   },
   "aptalca/docker-rdp-boinc": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the Boinc container from LinuxServer.io.  And, THANK-YOU for helping the cause",
     "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
   },
   "silverwind/droppy:latest": {
