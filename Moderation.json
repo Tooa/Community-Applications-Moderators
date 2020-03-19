@@ -937,5 +937,8 @@
   "https://github.com/SlrG/unRAID/raw/master/Plugins/advCPaMV.plg": {
     "Blacklist": true,
     "ModeratorComment": "This plugin has been deemed to possibly corrupt files (especially large files), and it is recommended to no longer use it"
+  },
+  "prologic/golinks:latest": {
+    "Recommended": true
   }
 } 
