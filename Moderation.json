@@ -940,5 +940,8 @@
   },
   "prologic/golinks:latest": {
     "Recommended": true
+  },
+  "kiwix/kiwix-serve:latest": {
+    "Recommended": true
   }
 } 
