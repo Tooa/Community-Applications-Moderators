@@ -946,5 +946,8 @@
   },
   "gotify/server:latest": {
     "Recommended": true
+  },
+  "cazzar/shokoserver": {
+    "Recommended": true
   }
 } 
