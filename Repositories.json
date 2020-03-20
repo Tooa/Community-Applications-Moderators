@@ -824,5 +824,10 @@
     "url": "https://github.com/GuildDarts/unraid-ca-templates",
     "profile": "https://forums.unraid.net/profile/80260-guilddarts/",
     "name": "GuildDart's Plugin Repository"
+  },
+  {
+    "url": "https://github.com/wranglatang/docker-bluelinky",
+    "profile": "https://forums.unraid.net/profile/89354-pwrangles/",
+    "name": "p.wrangles' Repository"
   }
 ]
