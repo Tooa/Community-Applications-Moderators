@@ -949,8 +949,5 @@
   },
   "cazzar/shokoserver": {
     "Recommended": true
-  },
-  "nextcloud:18.0.2-apache": {
-    "Recommended": true
   }
 } 
