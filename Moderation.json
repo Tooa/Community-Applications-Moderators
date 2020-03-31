@@ -945,5 +945,8 @@
   },
   "cazzar/shokoserver": {
     "Recommended": true
+  },
+  "miniflux/miniflux:latest": {
+    "Recommended": true
   }
 } 
