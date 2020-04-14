@@ -944,5 +944,8 @@
   },
   "miniflux/miniflux:latest": {
     "Recommended": true
+  },
+  "d34dc3n73r/netdata-glibc": {
+    "CAComment": "This application requires the nVidia unRaid plugin and an nVidia GPU"
   }
 } 
