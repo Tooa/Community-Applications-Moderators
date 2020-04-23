@@ -947,5 +947,11 @@
   },
   "d34dc3n73r/netdata-glibc": {
     "CAComment": "This application requires the nVidia unRaid plugin and an nVidia GPU"
+  },
+  "linuxserver/hydra2": {
+    "Recommended": true
+  },
+  "binhex/arch-nzbhydra2": {
+    "Recommended": true
   }
 } 
