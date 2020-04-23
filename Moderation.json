@@ -953,5 +953,8 @@
   },
   "binhex/arch-nzbhydra2": {
     "Recommended": true
+  },
+  "mattermost/mattermost-team-edition:master": {
+    "Recommended": true
   }
 } 
