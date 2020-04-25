@@ -398,7 +398,8 @@
     "CAComment": "This application requires elasticsearch to be installed."
   },
   "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
-    "CAComment": "This application does not display correctly if using unRaid's Black theme.  There is an alternative plugin under active devlopment titled Disk Location"
+    "Deprecated": "This application appears to be abandoned and issues with it happen on later versions of unRaid.  There is an alternative plugin under active devlopment titled Disk Location",
+    "DeprecatedMaxVer": "6.7.0"    
   },
   "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
     "UpdateMinVer": "6.7.0-rc1"
