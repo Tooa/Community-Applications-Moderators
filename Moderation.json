@@ -981,5 +981,9 @@
   "cmer/caddy": {
     "Deprecated": true,
     "ModeratorComment": "Author recommends to instead use the official container.  See <a href='https://forums.unraid.net/topic/54876-support-cmer-caddy-web-server/?tab=comments#comment-849839'>here</a>"
+  },
+  "soana/backupsql": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated by the author.  See <a href='https://forums.unraid.net/topic/38706-beta-backupsql-docker/?tab=comments#comment-849942'>here</a>"
   }
 } 
