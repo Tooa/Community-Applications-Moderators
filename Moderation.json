@@ -973,5 +973,9 @@
   "shoginn/vrs:latest": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerHub"
+  },
+  "linuxserver/hydra2": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of linuxserver/nzbhydra2"
   }
 } 
