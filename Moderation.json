@@ -977,5 +977,9 @@
   "linuxserver/hydra2": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of linuxserver/nzbhydra2"
+  },
+  "cmer/caddy": {
+    "Deprecated": true,
+    "ModeratorComment": "Author recommends to instead use the official container.  See <a href='https://forums.unraid.net/topic/54876-support-cmer-caddy-web-server/?tab=comments#comment-849839'>here</a>"
   }
 } 
