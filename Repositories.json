@@ -849,5 +849,9 @@
     "url": "https://github.com/kiowadriver/unraid-docker",
     "profile": "https://forums.unraid.net/profile/74645-kiowa2005/",
     "name": "kiowa2005's Repository"
+  },
+  {
+    "url": "https://github.com/Squidly271/Language-Repo",
+    "name": "Language test repo"
   }
 ]
