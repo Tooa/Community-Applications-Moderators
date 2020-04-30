@@ -853,5 +853,10 @@
   {
     "url": "https://github.com/Squidly271/Language-Repo",
     "name": "Language test Repository"
+  },
+  {
+    "url": "https://github.com/mikeylikesrocks/unraid-docker-templates",
+    "name": "mikeylikesrocks' Repository",
+    "profile": "https://forums.unraid.net/profile/89382-mikeylikesrocks"
   }
 ]
