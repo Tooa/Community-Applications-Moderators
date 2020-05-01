@@ -985,5 +985,8 @@
   "soana/backupsql": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated by the author.  See <a href='https://forums.unraid.net/topic/38706-beta-backupsql-docker/?tab=comments#comment-849942'>here</a>"
+  },
+  "hotio/nzbhydra2": {
+    "Recommended": true
   }
 } 
