@@ -988,5 +988,9 @@
   },
   "hotio/nzbhydra2": {
     "Recommended": true
+  },
+  "captasic/openrgb:latest": {
+    "Recommended": true,
+    "CAComment": "Please ensure you read the warning section within the description"
   }
 } 
