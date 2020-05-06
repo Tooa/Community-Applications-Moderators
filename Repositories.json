@@ -115,9 +115,7 @@
   },
   {
     "name":  "Official Limetech Repository",
-    "url":  "https://github.com/limetech/docker-templates",
-    "forum":  "http://lime-technology.com/forum/index.php?topic=40654.0",
-    "web":  "http://lime-technology.com/"
+    "url":  "https://github.com/limetech/docker-templates"
   },
   {
     "name":  "linuxserver's Repository",
@@ -849,10 +847,6 @@
     "url": "https://github.com/kiowadriver/unraid-docker",
     "profile": "https://forums.unraid.net/profile/74645-kiowa2005/",
     "name": "kiowa2005's Repository"
-  },
-  {
-    "url": "https://github.com/Squidly271/Language-Repo",
-    "name": "Language test Repository"
   },
   {
     "url": "https://github.com/mikeylikesrocks/unraid-docker-templates",
