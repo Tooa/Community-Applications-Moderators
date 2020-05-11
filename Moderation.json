@@ -992,5 +992,8 @@
   "captasic/openrgb:latest": {
     "Recommended": true,
     "CAComment": "Please ensure you read the warning section within the description"
+  },
+  "https://raw.githubusercontent.com/Skitals/unraid-vfio-pci/master/plugins/vfio.pci.plg": {
+    "MaxVer": "6.9.0-beta1"
   }
 } 
