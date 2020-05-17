@@ -994,5 +994,8 @@
   },
   "https://raw.githubusercontent.com/Skitals/unraid-vfio-pci/master/plugins/vfio.pci.plg": {
     "MaxVer": "6.9.0-beta1"
+  },
+  "hotio/readarr:unstable": {
+    "Recommended": true
   }
 } 
