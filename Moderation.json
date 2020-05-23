@@ -997,5 +997,8 @@
   },
   "hotio/readarr:unstable": {
     "Recommended": true
+  },
+  "atlassian/confluence-server": {
+    "Recommended": true
   }
 } 
