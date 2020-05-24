@@ -1000,5 +1000,9 @@
   },
   "atlassian/confluence-server": {
     "Recommended": true
+  },
+  "smdion/docker-h5ai": {
+    "Deprecated": true
+    "ModeratorComment": "Extremely out of date, not supported, not updated"
   }
 } 
