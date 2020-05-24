@@ -1002,7 +1002,7 @@
     "Recommended": true
   },
   "smdion/docker-h5ai": {
-    "Deprecated": true
+    "Deprecated": true,
     "ModeratorComment": "Extremely out of date, not supported, not updated"
   }
 } 
