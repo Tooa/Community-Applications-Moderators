@@ -868,5 +868,10 @@
     "url": "https://github.com/Womabre/unraid-docker-templates",
     "name": "Womabre's Repository",
     "profile": "https://forums.unraid.net/profile/90075-womabre"
+  },
+  {
+    "url": "https://github.com/SAL-e/docker-templates",
+    "name": "SAL-e's Repository",
+    "profile": "https://forums.unraid.net/profile/11345-sal-e/"
   }
 ]
