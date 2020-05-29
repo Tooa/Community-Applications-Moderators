@@ -1004,5 +1004,8 @@
   "smdion/docker-h5ai": {
     "Deprecated": true,
     "ModeratorComment": "Painfully out of date, not supported, not updated"
+  },
+  "hotio/jellyfin": {
+    "Recommended": true
   }
 } 
