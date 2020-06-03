@@ -629,7 +629,6 @@
     "ModeratorComment": "Deprecated in favour of the theme engine plugin"
   },
   "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg": {
-    "Recommended": true,
     "Support": "https://forums.unraid.net/topic/88253-critical-security-vulnerabilies-discovered/"
   },
   "mccloud/ps3netsrv": {
@@ -640,20 +639,8 @@
     "Blacklist": true,
     "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
   },
-  "bitwardenrs/server": {
-    "Recommended": true
-  },
   "storjlabs/storagenode:alpha": {
     "RemoveFromCA": true
-  },
-  "hotio/radarr": {
-    "Recommended": true
-  },
-  "hotio/sonarr": {
-    "Recommended": true
-  },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
-    "Recommended": true
   },
   "linuxserver/organizr": {
     "Deprecated": true,
@@ -681,9 +668,6 @@
   "ninthwalker/nowshowing:v2": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Tautulli / Ombi / etc"
-  },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.password.validator.plg": {
-    "Recommended": true
   },
   "titpetric/netdata": {
     "Deprecated": true,
@@ -757,169 +741,15 @@
     "Blacklist": true,
     "ModeratorComment": "Description doesn't meet standards.  At the very least, not updated in years and is an addition to a container which is also blacklisted within CA"
   },
-  "linuxserver/sonarr": {
-    "Recommended": true
-  },
-  "linuxserver/radarr": {
-    "Recommended": true
-  },
-  "linuxserver/bazarr": {
-    "Recommended": true
-  },
-  "golift/unpackerr": {
-    "Recommended": true
-  },
-  "hotio/lidarr": {
-    "Recommended": true
-  },
-  "linuxserver/lidarr": {
-    "Recommended": true
-  },
-  "gitlab/gitlab-ce": {
-    "Recommended": true
-  },
-  "nodered/node-red": {
-    "Recommended": true
-  },
-  "netdata/netdata": {
-    "Recommended": true
-  },
-  "google/cadvisor:latest": {
-    "Recommended": true
-  },
-  "emby/embyserver:latest": {
-    "Recommended": true
-  },
-  "emby/embyserver:beta": {
-    "Recommended": true
-  },
-  "getferdi/ferdi-server": {
-    "Recommended": true
-  },
-  "factoriotools/factorio:stable": {
-    "Recommended": true
-  },
-  "graylog/graylog:3.1": {
-    "Recommended": true
-  },
-  "grafana/grafana": {
-    "Recommended": true
-  },
-  "hoobs/hoobs": {
-    "Recommended": true
-  },
-  "homeassistant/home-assistant": {
-    "Recommended": true
-  },
-  "linuxserver/jackett": {
-    "Recommended": true
-  },
-  "huginn/huginn": {
-    "Recommended": true
-  },
-  "jellyfin/jellyfin": {
-    "Recommended": true
-  },
-  "monitorr/monitorr": {
-    "Recommended": true
-  },
-  "onlyoffice/documentserver": {
-    "Recommended": true
-  },
-  "onlyoffice/communityserver": {
-    "Recommended": true
-  },
-  "openproject/community:10": {
-    "Recommended": true
-  },
-  "pihole/pihole:latest": {
-    "Recommended": true
-  },
-  "portainer/portainer": {
-    "Recommended": true
-  },
-  "privatebin/nginx-fpm-alpine": {
-    "Recommended": true
-  },
-  "seafileltd/seafile": {
-    "Recommended": true
-  },
-  "storjlabs/storagenode:beta": {
-    "Recommended": true
-  },
-  "sourcegraph/server:3.10.0": {
-    "Recommended": true
-  },
-  "szurubooru/server:latest": {
-    "Recommended": true
-  },
-  "gitea/gitea": {
-    "Recommended": true
-  },
-  "thepaperlessproject/paperless": {
-   "Recommended": true
-  },
-  "hotio/bazarr": {
-    "Recommended": true
-  },
-  "hotio/unpackerr": {
-    "Recommended": true
-  },
-  "hotio/apcupsd2influxdb": {
-    "Recommended": true
-  },
-  "hotio/cloudflare-ddns": {
-    "Recommended": true
-  },
-  "hotio/hddtemp2influxdb": {
-    "Recommended": true
-  },
-  "jbartlett777/diskspeed": {
-    "Recommended": true
-  },
-  "linuxserver/heimdall": {
-    "Recommended": true
-  },
-  "josh5/unmanic": {
-    "Recommended": true
-  },
-  "https://github.com/dlandon/unassigned.devices/raw/master/unassigned.devices.plg": {
-    "Recommended": true
-  },
-  "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg": {
-    "Recommended": true
-  },
-  "linuxserver/cops": {
-    "Recommended": true
-  },
-  "bizmodeller/mymediaforalexa": {
-    "Recommended": true
-  },
-  "linuxserver/couchpotato": {
-    "Recommended": true
-  },
-  "linuxserver/headphones": {
-    "Recommended": true
-  },
   "linuxserver/libresonic": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of AirSonic"
-  },
-  "haveagitgat/tdarr": {
-    "Recommended": true
-  },
-  "haveagitgat/tdarr_aio": {
-    "Recommended": true
   },
   "https://raw.githubusercontent.com/Squidly271/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
     "Deprecated": true,
     "ModeratorComment": "Mover Tuning has been forked and the replacement has more features.  See <a href='https://forums.unraid.net/topic/70783-plugin-mover-tuning/page/6/?tab=comments#comment-832127' target='_blank'>here</a> for more details and instructions"
   },
-  "darkalfx/requestrr:latest": {
-    "Recommended": true
-  },
   "boinc/client": {
-    "Recommended": true,
     "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
   },
   "aptalca/docker-rdp-boinc": {
@@ -927,35 +757,8 @@
     "ModeratorComment": "Deprecated in favour of the Boinc container from LinuxServer.io.  And, THANK-YOU for helping the cause",
     "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
   },
-  "silverwind/droppy:latest": {
-    "Recommended": true
-  },
-  "prologic/golinks:latest": {
-    "Recommended": true
-  },
-  "kiwix/kiwix-serve:latest": {
-    "Recommended": true
-  },
-  "gotify/server:latest": {
-    "Recommended": true
-  },
-  "cazzar/shokoserver": {
-    "Recommended": true
-  },
-  "miniflux/miniflux:latest": {
-    "Recommended": true
-  },
   "d34dc3n73r/netdata-glibc": {
     "CAComment": "This application requires the nVidia unRaid plugin and an nVidia GPU"
-  },
-  "linuxserver/hydra2": {
-    "Recommended": true
-  },
-  "binhex/arch-nzbhydra2": {
-    "Recommended": true
-  },
-  "mattermost/mattermost-team-edition:master": {
-    "Recommended": true
   },
   "shoginn/dump1090:latest": {
     "Blacklist": true,
@@ -985,27 +788,14 @@
     "Deprecated": true,
     "ModeratorComment": "Deprecated by the author.  See <a href='https://forums.unraid.net/topic/38706-beta-backupsql-docker/?tab=comments#comment-849942'>here</a>"
   },
-  "hotio/nzbhydra2": {
-    "Recommended": true
-  },
   "captasic/openrgb:latest": {
-    "Recommended": true,
     "CAComment": "Please ensure you read the warning section within the description"
   },
   "https://raw.githubusercontent.com/Skitals/unraid-vfio-pci/master/plugins/vfio.pci.plg": {
     "MaxVer": "6.9.0-beta1"
   },
-  "hotio/readarr:unstable": {
-    "Recommended": true
-  },
-  "atlassian/confluence-server": {
-    "Recommended": true
-  },
   "smdion/docker-h5ai": {
     "Deprecated": true,
     "ModeratorComment": "Painfully out of date, not supported, not updated"
-  },
-  "hotio/jellyfin": {
-    "Recommended": true
   }
 } 
