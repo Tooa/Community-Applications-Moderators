@@ -797,5 +797,8 @@
   "smdion/docker-h5ai": {
     "Deprecated": true,
     "ModeratorComment": "Painfully out of date, not supported, not updated"
+  },
+  "theoriginalbrian/intel-gpu-telegraf": {
+    "Support": "mailto:brian@phospher.com"
   }
 } 
