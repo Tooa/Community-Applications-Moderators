@@ -800,5 +800,9 @@
   },
   "theoriginalbrian/intel-gpu-telegraf": {
     "Support": "mailto:brian@phospher.com"
+  },
+  "bocki/deemix": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of a more updated docker repository (bockiii/deemix-docker)"
   }
 } 
