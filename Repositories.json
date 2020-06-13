@@ -883,5 +883,10 @@
     "url": "https://github.com/brianmiller/docker-templates",
     "name": "TheBrian's Repository",
     "profile": "https://forums.unraid.net/profile/86892-thebrian"
+  },
+  {
+    "url": "https://github.com/NotExpectedYet/OctoFarm-UnRaid-Template",
+    "name": "mearman's Repository",
+    "profile": "https://forums.unraid.net/profile/100446-mearman"
   }
 ]
