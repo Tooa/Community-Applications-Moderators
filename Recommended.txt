@@ -70,3 +70,4 @@ captasic/openrgb:latest
 hotio/readarr:unstable
 atlassian/confluence-server
 hotio/jellyfin
+minio/minio
