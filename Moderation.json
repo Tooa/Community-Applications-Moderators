@@ -808,5 +808,8 @@
   "siwatinc/homebridge_nogui_unraid": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of homebridge with GUI"
-  }
+  },
+  "rix1337/docker-rsscrawler-sponsors-helper": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerHub"
 } 
