@@ -892,5 +892,10 @@
   {
     "url": "https://github.com/unraid/language-templates",
     "name": "Limetech Language Repository"
+  },
+  {
+    "url": "https://github.com/ibracorp/authelia.xml",
+    "name": "Sycotix' Repository",
+    "profile": "https://forums.unraid.net/profile/106623-sycotix/"
   }
 ]
