@@ -902,5 +902,10 @@
     "url": "https://github.com/natcoso9955/unRAID-docker",
     "name": "Natcoso9955's Repository",
     "profile": "https://forums.unraid.net/profile/73128-natcoso9955/"
+  },
+  {
+    "url": "https://github.com/opal06/unraid_docker_templates",
+    "name": "opal06's Repository",
+    "profile": "https://forums.unraid.net/profile/105249-opal06/"
   }
 ]
