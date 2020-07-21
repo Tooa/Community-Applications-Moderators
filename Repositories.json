@@ -907,5 +907,10 @@
     "url": "https://github.com/opal06/unraid_docker_templates",
     "name": "opal_06's Repository",
     "profile": "https://forums.unraid.net/profile/110756-opal_06/"
+  },
+  {
+    "url": "https://github.com/BGameiro2000/trilium-unraid",
+    "profile": "https://forums.unraid.net/profile/110702-bgameiro/",
+    "name": "BGameiro's Repository"
   }
 ]
