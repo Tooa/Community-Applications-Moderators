@@ -93,7 +93,10 @@
     "name": "hernandito's Repository",
     "url": "https://github.com/hernandito/docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=39623.0",
-    "profile": "https://forums.lime-technology.com/profile/6274-hernandito/"
+    "profile": "https://forums.lime-technology.com/profile/6274-hernandito/",
+    "duplicated": {
+      "photoprism/photoprism"
+    }
   },
   {
     "name": "xamindar's Repository",
