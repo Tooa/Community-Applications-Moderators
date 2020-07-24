@@ -915,5 +915,10 @@
     "url": "https://github.com/BGameiro2000/trilium-unraid",
     "profile": "https://forums.unraid.net/profile/110702-bgameiro/",
     "name": "BGameiro's Repository"
+  },
+  {
+    "url": "https://github.com/openspeedtest/unraid-docker-plugin",
+    "profile": "https://forums.unraid.net/profile/110999-openspeedtest/",
+    "name": "openspeedtest's Repository"
   }
 ]
