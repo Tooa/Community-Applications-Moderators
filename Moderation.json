@@ -823,5 +823,9 @@
   },
   "https://raw.githubusercontent.com/hugenbd/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
     "MaxVer": "6.9.0-beta1"
+  },
+  "organizrtools/organizr-v2": {
+    "Deprecated": true,
+    "ModeratorComment": "This application version is deprecated.  The maintainer is transistioning to organizrtools/organizr"
   }
 } 
