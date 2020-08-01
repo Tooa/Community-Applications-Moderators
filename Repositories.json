@@ -920,5 +920,9 @@
     "url": "https://github.com/charlescng/docker-containers",	
     "name": "uberchuckie's Repository",	
     "profile": "https://forums.unraid.net/profile/64811-uberchuckie/"	
+  },
+  {
+    "url": "https://github.com/Organizr/docker-organizr",
+    "name": "Organizr Repository"
   }
 ]
