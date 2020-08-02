@@ -826,6 +826,6 @@
   },
   "organizrtools/organizr-v2": {
     "Deprecated": true,
-    "ModeratorComment": "This application version is deprecated.  The maintainer is transistioning to organizrtools/organizr"
+    "ModeratorComment": "This application version is deprecated.  The maintainer is transistioning to organizr/organizr"
   }
 } 
