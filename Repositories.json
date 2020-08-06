@@ -929,5 +929,10 @@
   {
     "url": "https://github.com/Organizr/docker-organizr",
     "name": "Organizr Repository"
+  },
+  {
+    "url": "https://github.com/mason-xx/unraid-templates",
+    "name": "mason's Repository",
+    "profile": "https://forums.unraid.net/profile/914-mason"
   }
 ]
