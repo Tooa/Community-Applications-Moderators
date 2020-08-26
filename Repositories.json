@@ -647,11 +647,6 @@
     "profile": "https://forums.unraid.net/profile/12026-kubed_zero/"
   },
   {
-    "url": "https://github.com/MstrDC/docker-templates",
-    "name": "_DC_'s Repository",
-    "profile": "https://forums.unraid.net/profile/77425-_dc_/"
-  },
-  {
     "url": "https://github.com/ijabz/songkong_unraid/",
     "name": "Official Songkong Repository",
     "recommended": true
@@ -949,5 +944,10 @@
     "url": "https://github.com/testdasi/testdasi-unraid-repo",
     "name": "testdasi's Repository",
     "profile": "https://forums.unraid.net/profile/70144-testdasi"
+  },
+  {
+    "url": "https://github.com/FunnyPocketBook/docker-templates",
+    "name": "FunnyPocketBook's Repository",
+    "profile": "https://forums.unraid.net/profile/78379-funnypocketbook"
   }
 ]
