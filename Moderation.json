@@ -834,5 +834,13 @@
   },
   "linuxserver/letsencrypt": {
     "ModeratorComment": "This application is being renamed to SWAG, and this repository (linuxserver/letsencrypt) is now deprecated.  Migration instructions can be viewed here <a href='https://blog.linuxserver.io/2020/08/21/introducing-swag/' target='_blank'>HERE</a>"
+  },
+  "markusmcnugen/sftp:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository/tag no longer exists on dockerHub"
+  },
+  "digitalhigh/flextv": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository/tag no longer exists on dockerHub"
   }
 } 
