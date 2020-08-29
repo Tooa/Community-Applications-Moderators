@@ -842,5 +842,8 @@
   "digitalhigh/flextv": {
     "Blacklist": true,
     "ModeratorComment": "Repository/tag no longer exists on dockerHub"
+  },
+  "bgameiro/arch-cern-root": {
+    "RemoveFromCA": true
   }
 } 
