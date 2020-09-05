@@ -944,5 +944,10 @@
     "url": "https://github.com/FunnyPocketBook/docker-templates",
     "name": "FunnyPocketBook's Repository",
     "profile": "https://forums.unraid.net/profile/78379-funnypocketbook"
+  },
+  {
+    "url": "https://github.com/Progeny42/unRAID-CA-Templates",
+    "name": "Progeny42's Repository",
+    "profile": "https://forums.unraid.net/profile/101997-progeny42"
   }
 ]
