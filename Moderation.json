@@ -845,5 +845,8 @@
   },
   "bgameiro/arch-cern-root": {
     "RemoveFromCA": true
+  },
+  "https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg": {
+    "CAComment": "Some users lose access to the context menus on the docker page with this installed.  An uninstall / reinstall of this plugin seems to fix this up"
   }
 } 
