@@ -943,5 +943,10 @@
     "url": "https://github.com/Progeny42/unRAID-CA-Templates",
     "name": "Progeny42's Repository",
     "profile": "https://forums.unraid.net/profile/101997-progeny42"
+  },
+  {
+    "url": "https://github.com/roflcoopter/viseron-unraid-ca-template",
+    "name": "roflcoopter's Repository",
+    "profile": "https://forums.unraid.net/profile/113120-roflcoopter"
   }
 ]
