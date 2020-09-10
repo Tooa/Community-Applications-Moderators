@@ -948,5 +948,10 @@
     "url": "https://github.com/roflcoopter/viseron-unraid-ca-template",
     "name": "roflcoopter's Repository",
     "profile": "https://forums.unraid.net/profile/113120-roflcoopter"
+  },
+  {
+    "url": "https://github.com/jahanson/unraid-docker-templates",
+    "name": "Veriwind's Repository",
+    "profile": "https://forums.unraid.net/profile/111738-veriwind"
   }
 ]
