@@ -850,5 +850,13 @@
   "https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/plugin/rclone.plg": {
     "Deprecated": true,
     "ModeratorComment": "This has been deprecated in favour of the rclone plugin"
+  },
+  "aptalca/docker-digikam": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the version from linuxserver.io"
+  },
+  "aptalca/docker-jdownloader2": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the version from ich777 or jlesage"
   }
 } 
