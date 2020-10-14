@@ -961,5 +961,10 @@
     "url": "https://github.com/doron1/unraid-sas-spindown",
     "name": "doron's Repository",
     "profile": "https://forums.unraid.net/profile/8006-doron/"
+  },
+  {
+    "url": "https://github.com/tmchow/unraid-docker-templates",
+    "name": "tmchow's Repository",
+    "profile": "https://forums.unraid.net/profile/69431-tmchow/"
   }
 ]
