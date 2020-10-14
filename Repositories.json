@@ -966,5 +966,10 @@
     "url": "https://github.com/tmchow/unraid-docker-templates",
     "name": "tmchow's Repository",
     "profile": "https://forums.unraid.net/profile/69431-tmchow/"
+  },
+  {
+    "url": "https://github.com/argash/amongusdiscord_unraid",
+    "name": "argash's Repository",
+    "profile": "https://forums.unraid.net/profile/112259-argash/"
   }
 ]
