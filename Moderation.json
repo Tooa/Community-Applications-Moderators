@@ -858,5 +858,9 @@
   "aptalca/docker-jdownloader2": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the version from ich777 or jlesage"
+  },
+  "hoobs/hoobs": {
+    "RemoveFromCA": true,
+    "ModeratorComment": ":latest no longer exists on dockerHub"
   }
 } 
