@@ -490,7 +490,7 @@
     "ModeratorComment": "Effective Duplicate of teamspeak-alpine.  Only base OS differs"
   },
   "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
-    "UpdateMinVer": "6.7.0"
+    "UpdateMinVer": "6.8.0"
   },
   "mace/ddclient": {
     "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
