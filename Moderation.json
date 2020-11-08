@@ -856,5 +856,9 @@
   "hoobs/hoobs": {
     "RemoveFromCA": true,
     "ModeratorComment": ":latest no longer exists on dockerHub"
+  },
+  "monicahq/monicahq": {
+    "Deprecated": true,
+    "ModeratorComment": "Replaced by Monica from Monica"
   }
 } 
