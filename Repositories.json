@@ -250,10 +250,6 @@
     "profile": "https://forums.lime-technology.com/profile/21303-docgyver/"
   },
   {
-    "name":  "Linuxserver's Plugin Repository",
-    "url": "https://github.com/linuxserver/linuxserver-Plugin-Repository"
-  },
-  {
     "name":  "bashNinja's Repository",
     "url":   "https://github.com/miketweaver/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/69309-bashninja/"
