@@ -860,5 +860,11 @@
   "monicahq/monicahq": {
     "Deprecated": true,
     "ModeratorComment": "Replaced by Monica from Monica"
+  },	
+  "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {	
+    "RemoveFromCA": true	
+  },	
+  "https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/plugins/Unraid-Nvidia.plg": {	
+    "RemoveFromCA": true
   }
 } 
