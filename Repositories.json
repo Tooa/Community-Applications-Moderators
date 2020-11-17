@@ -987,5 +987,10 @@
   {	
     "name":  "Linuxserver's Plugin Repository",	
     "url": "https://github.com/linuxserver/linuxserver-Plugin-Repository"	
+  },
+  {
+    "name": "laur's Repository",
+    "url": "https://github.com/laur89/unraid-templates/",
+    "profile": "https://forums.unraid.net/profile/114193-laur/"
   }
 ]
