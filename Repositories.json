@@ -983,5 +983,9 @@
     "url": "https://github.com/jassycliq/Unraid-AndroidStudio-Projector",
     "name": "jassycliq's Repository",
     "profile": "https://forums.unraid.net/profile/116233-jassycliq/"
+  },
+  {	
+    "name":  "Linuxserver's Plugin Repository",	
+    "url": "https://github.com/linuxserver/linuxserver-Plugin-Repository"	
   }
 ]
