@@ -992,5 +992,10 @@
     "name": "laur's Repository",
     "url": "https://github.com/laur89/unraid-templates/",
     "profile": "https://forums.unraid.net/profile/114193-laur/"
+  },
+  {
+    "url": "https://github.com/benhedrington/hedrington-unraid-docker-templates",
+    "name": "hedrinbc's Repository",
+    "profile": "https://github.com/benhedrington/hedrington-unraid-docker-templates"
   }
 ]
