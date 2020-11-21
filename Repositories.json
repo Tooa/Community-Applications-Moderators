@@ -144,11 +144,6 @@
     "profile": "https://forums.lime-technology.com/profile/6492-tinglis1/"
   },
   {
-    "name": "dlandon's Plugin Repository",
-    "url":  "https://github.com/dlandon/apps.plugins/",
-    "profile": "https://forums.lime-technology.com/profile/6013-dlandon/"
-  },
-  {
     "name": "Squid's Repository",
     "url":  "https://github.com/Squidly271/plugin-repository",
     "profile": "https://forums.lime-technology.com/profile/10290-squid/",
@@ -170,7 +165,7 @@
     "profile": "https://forums.lime-technology.com/profile/2736-bonienl/"
   },
   {
-    "name": "gfjardim's Plugin Repository",
+    "name": "gfjardim's Repository",
     "url": "https://github.com/gfjardim/unRAID-plugins/tree/templates",
     "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/"
   },
