@@ -1002,5 +1002,10 @@
     "url": "https://github.com/vinid223/unraid-docker-templates",
     "name": "vinid223's Repository",
     "profile": "https://forums.unraid.net/profile/91081-vinid223"
+  },
+  {
+    "url": "https://github.com/DanRegalia/Portainer-CE-Unraid",
+    "name": "DanRegalia's Repository",
+    "profile": "https://forums.unraid.net/profile/103107-danregalia/"
   }
 ]
