@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://github.com/unraid/language-templates",
+    "name": "Official Unraid Repository"
+  },
+  {
     "name": "smdion's Repository",
     "url": "https://github.com/smdion/docker-containers/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=34009.0",
@@ -852,10 +856,6 @@
     "url": "https://github.com/OctoPrint/Unraid-Template",
      "name": "mearman's 2nd Repository",
     "profile": "https://forums.unraid.net/profile/100446-mearman"
-  },
-  {
-    "url": "https://github.com/unraid/language-templates",
-    "name": "Official Unraid Repository"
   },
   {
     "url": "https://github.com/ibracorp/authelia.xml",
