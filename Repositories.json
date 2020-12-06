@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://github.com/unraid/language-templates",
-    "name": "Official Unraid Repository"
-  },
-  {
     "name": "smdion's Repository",
     "url": "https://github.com/smdion/docker-containers/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=34009.0",
@@ -994,5 +990,9 @@
     "url": "https://github.com/DanRegalia/Portainer-CE-Unraid",
     "name": "DanRegalia's Repository",
     "profile": "https://forums.unraid.net/profile/103107-danregalia/"
+  },
+  {
+    "url": "https://github.com/unraid/language-templates",
+    "name": "Official Unraid Repository"
   }
 ]
