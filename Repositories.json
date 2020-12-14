@@ -994,5 +994,10 @@
   {
     "url": "https://github.com/unraid/language-templates",
     "name": "Official Unraid Repository"
+  },
+  {
+    "url": "https://github.com/diamkil/docker-templates",
+    "name": "diamkil's Repository",
+    "profile": "https://forums.unraid.net/profile/114067-diamkil/"
   }
 ]
