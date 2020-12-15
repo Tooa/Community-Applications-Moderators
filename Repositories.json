@@ -1004,5 +1004,9 @@
     "url": "https://github.com/TheAxelander/unraid_ca",
     "name": "Axelander's Repository",
     "profile": "https://forums.unraid.net/profile/117678-axelander/"
-  }
+  },
+  {
+    "url": "https://github.com/n8detar/docker-templates",
+    "name": "ndetar's Repository",
+    "profile": "https://forums.unraid.net/profile/104222-ndetar/"
 ]
