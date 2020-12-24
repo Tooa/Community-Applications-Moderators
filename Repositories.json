@@ -1004,5 +1004,10 @@
     "url": "https://github.com/n8detar/docker-templates",
     "name": "ndetar's Repository",
     "profile": "https://forums.unraid.net/profile/104222-ndetar/"
+  },
+  {
+    "url": "https://github.com/SimonFair/unraid.iSCSI",
+    "name": "SimonF's Repository",
+    "profile": "https://forums.unraid.net/profile/75917-simonf"
   }
 ]
