@@ -404,7 +404,10 @@
   {
     "url": "https://github.com/rroller/unraid-templates",
     "name": "runraid's Repository",
-    "profile": "https://forums.lime-technology.com/profile/75343-runraid/"
+    "profile": "https://forums.lime-technology.com/profile/75343-runraid/",
+    "duplicated": {
+      "deepquestai/deepstack": true
+    }
   },
   {
     "url": "https://github.com/MarkusMcNugen/docker-templates",
