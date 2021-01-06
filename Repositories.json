@@ -1012,5 +1012,10 @@
     "url": "https://github.com/SimonFair/unraid.usbip",
     "name": "SimonF's Repository",
     "profile": "https://forums.unraid.net/profile/75917-simonf"
+  },
+  {
+    "url": "https://github.com/mgutt/unraid-docker-templates",
+    "name": "mgutt's Repository",
+    "profile": "https://forums.unraid.net/profile/94359-mgutt"
   }
 ]
