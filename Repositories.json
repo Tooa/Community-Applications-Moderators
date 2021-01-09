@@ -1017,5 +1017,10 @@
     "url": "https://github.com/mgutt/unraid-docker-templates",
     "name": "mgutt's Repository",
     "profile": "https://forums.unraid.net/profile/94359-mgutt"
+  },
+  {
+    "url": "https://github.com/wger-project/unraid-templates",
+    "name": "rge's Repository",
+    "profile": "https://forums.unraid.net/profile/118956-rge/"
   }
 ]
