@@ -1022,5 +1022,10 @@
     "url": "https://github.com/wger-project/unraid-templates",
     "name": "rge's Repository",
     "profile": "https://forums.unraid.net/profile/118956-rge/"
+  },
+  {
+    "url": "https://github.com/ArieDed/unraid-template",
+    "name": "ArieDed's Repository",
+    "profile": "https://forums.unraid.net/profile/119153-arieded/"
   }
 ]
