@@ -835,9 +835,6 @@
     "Blacklist": true,
     "ModeratorComment": "Repository/tag no longer exists on dockerHub"
   },
-  "bgameiro/arch-cern-root": {
-    "RemoveFromCA": true
-  },
   "https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/plugin/rclone.plg": {
     "Deprecated": true,
     "ModeratorComment": "This has been deprecated in favour of the rclone plugin"
