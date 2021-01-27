@@ -794,7 +794,10 @@
   {
     "url": "https://github.com/basroovers/unraid-templates",
     "profile": "https://forums.unraid.net/profile/94801-exista",
-    "name": "eXisTa's Repository"
+    "name": "eXisTa's Repository",
+    "duplicated": {
+      "xirixiz/dsmr-reader-docker": true
+    }
   },
   {
     "url": "https://github.com/D34DC3N73R/unraid-templates",
