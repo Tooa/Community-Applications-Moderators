@@ -150,15 +150,6 @@
     "icon": "https://ipsassets.unraid.net/uploads/monthly_2020_11/1001880086_Tripping-the-Rift-Chode_400x400(1).png.2e62b6b2bd95b73615bc8b651b5615f8.png"
   },
   {
-    "name": "peter_sm's Repository",
-    "url":  "https://github.com/petersm1/OpenVPN_plugin_repository",
-    "forum":  "http://lime-technology.com/forum/index.php?topic=35435.0",
-    "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXFVJQVYZRBBU&lc=SE&item_name=openvpn&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted",
-    "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
-    "donatetext": "I'm out of beer",
-    "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/"
-  },
-  {
     "name": "Dynamix Repository",
     "url":  "https://github.com/bergware/dynamix-plugins",
     "forum":  "http://lime-technology.com/forum/index.php?topic=36543.0",
