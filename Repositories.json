@@ -1049,5 +1049,10 @@
     "url": "https://github.com/PTRFRLL/unraid-templates",
     "name": "PTRFRLL's Repository",
     "profile": "https://forums.unraid.net/profile/75102-ptrfrll"
+  },
+  {
+    "url": "https://github.com/Sabreu/unraid_templates",
+    "name": "sublivion's Repository",
+    "profile": "https://forums.unraid.net/profile/98837-sublivion/"
   }
 ]
