@@ -1064,5 +1064,10 @@
     "url": "https://github.com/yqlbu/unraid-templates",
     "name": "kevin yu's Repository",
     "profile": "https://forums.unraid.net/profile/110700-kevin-yu/"
+  },
+  {
+    "url": "https://github.com/bobbintb/docker-templates",
+    "name": "bobbintb's Repository",
+    "profile": "https://forums.unraid.net/profile/550-bobbintb/"
   }
 ]
