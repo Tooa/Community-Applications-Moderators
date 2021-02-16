@@ -513,7 +513,10 @@
   {
     "url": "https://github.com/SiwatINC/unraid-ca-repository",
     "name": "Siwat2545's Repository",
-    "profile": "https://forums.unraid.net/profile/72489-siwat2545/"
+    "profile": "https://forums.unraid.net/profile/72489-siwat2545/",
+    "duplicated": {
+      "zwavejs/zwavejs2mqtt": true
+    }
   },
   {
     "url": "https://github.com/benderstwin/docker-templates",
