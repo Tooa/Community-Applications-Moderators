@@ -860,5 +860,9 @@
   },	
   "https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/plugins/Unraid-Nvidia.plg": {	
     "RemoveFromCA": true
+  },
+  "slrgde/glftpd": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated by the author"
   }
 } 
