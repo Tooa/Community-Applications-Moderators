@@ -1082,5 +1082,10 @@
     "url": "https://github.com/jflo/ffsync-unraid",
     "name": "Jflo's Repository",
     "profile": "https://forums.unraid.net/profile/120634-jflo/"
+  },
+  {
+    "url": "https://github.com/Adidasdaniel98/RepetierDocker",
+    "name": "Codeluxe's Repository",
+    "profile": "https://forums.unraid.net/profile/120747-codeluxe/"
   }
 ]
