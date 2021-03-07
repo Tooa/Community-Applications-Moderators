@@ -22,6 +22,8 @@ CAComment - a comment to place within the app.  Will NOT trigger a warning on FC
 
 RemoveFromCA - completely removes the template.  Does not trigger a deprecation or blacklist
 
+IncompatibleVersion = a plugin version that is incompatible with Unraid.  Allows to selectively mark a plugin's version as being incompatible so that after an update to the .plg it winds up being compatible again
+
 
   Note that both MinVer and MaxVer do not have to be present
 
