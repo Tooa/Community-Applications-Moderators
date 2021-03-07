@@ -870,9 +870,9 @@
     "ModeratorComment": "Deprecated by the author"
   },
   "https://raw.githubusercontent.com/jtok/unraid.vmbackup/master/vmbackup.plg": {
-    "IncompatibleVersion": {
+    "IncompatibleVersion": [
       "2021.02.01",
       "2021.02.03"
-    }
+    ]
   }
 } 
