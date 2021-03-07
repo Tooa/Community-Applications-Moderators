@@ -856,10 +856,14 @@
     "ModeratorComment": "Replaced by Monica from Monica"
   },	
   "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {	
-    "RemoveFromCA": true	
+    "RemoveFromCA": true,
+    "Deprecated": true,
+    "DeprecatedMaxVer": "6.9.0"
   },	
   "https://raw.githubusercontent.com/linuxserver/Unraid-Nvidia-Plugin/master/plugins/Unraid-Nvidia.plg": {	
-    "RemoveFromCA": true
+    "RemoveFromCA": true,
+    "Deprecated": true,
+    "DeprecatedMaxVer": "6.9.0"
   },
   "slrgde/glftpd": {
     "Deprecated": true,
