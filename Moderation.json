@@ -871,5 +871,8 @@
   },
   "https://raw.githubusercontent.com/jtok/unraid.vmbackup/master/vmbackup.plg": {
     "IncompatibleVersion": "2021.02.03"
+  },
+  "https://raw.githubusercontent.com/jtok/unraid.vmbackup/master/vmbackup.plg": {
+    "IncompatibleVersion": "2021.02.03"
   }
 } 
