@@ -871,5 +871,8 @@
   },
   "selfhosters/paperless-ng": {
     "CAComment": "This application requires redis to be installed."
+  },
+  "selfhosters/paperless": {
+    "CAComment": "While still functional, the author recommends to migrate to paperless-ng."
   }
 } 
